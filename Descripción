@@ -8,3 +8,7 @@ Pasos para runear el Server.
 
 
 Posteriormente se mostraran los pasos para modificar trafico.
+
+```
+$ sudo docker build -t miniircd .
+```
