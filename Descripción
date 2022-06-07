@@ -1,0 +1,10 @@
+# Taller-de-redes
+En el presente repositorio se muestra la instalación del cliente y servidor del protocolo IRC
+Esto a partir de la creacion de un dockerfile con la finalidad de correrlo en cualquier dispositivo
+
+Pasos para runear el cliente.
+
+Pasos para runear el Server.
+
+
+Posteriormente se mostraran los pasos para modificar trafico.
