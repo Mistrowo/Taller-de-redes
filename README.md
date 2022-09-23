@@ -23,3 +23,11 @@
 
 ` sudo docker run -it -p 6667:6667 --name "nombre que le demos al contenedor del servidor" "nombre de la imagen del servidor" `
 
+<h1>Video del Cliente y el Servidor </h1>
+https://www.youtube.com/watch?v=WzYO1l9scjY
+
+<h1>Video de Modificacion de trafico IRC</h1>
+https://www.youtube.com/watch?v=A1ZCVm7S1Yc
+
+<h1>Video de Modificacion de metricas de red</h1>
+https://www.youtube.com/watch?v=sr2hzSqm1us
